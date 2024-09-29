@@ -1,5 +1,5 @@
 # 💫 About Me:
-##Yusuf Sevinç<br>
+## Yusuf Sevinç
 Bilgisayar mühendisliği son sınıf öğrencisi
 Öğrenmeye meraklı
 Kod yazmayı seven 
